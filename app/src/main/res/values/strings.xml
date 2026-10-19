@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Este es un mensaje de SnackBar</string>
+    <string name="home_fab_text">Este es un mensaje de Toast </string>
+    <string name="bottom_app_bar">Inferior</string>
+    <string name="materia">Aplicación Movil</string>
+    <string name="nombre">Edgar</string>
+    <string name="apellido">Solis Cuadros</string>
+    <string name="figura_android">Ilustración de Android</string>
+</resources>

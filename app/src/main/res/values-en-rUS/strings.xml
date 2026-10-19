@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="home_screen">Start</string>
+    <string name="back_btn_desc">This is a message from SnackBar</string>
+    <string name="home_fab_text">This is a message from Toast</string>
+    <string name="bottom_app_bar">Inferior</string>
+    <string name="materia">Movile App</string>
+    <string name="nombre">Edgar</string>
+    <string name="apellido">Solis Cuadros</string>
+    <string name="figura_android">Android Ilustration</string>
+</resources>
